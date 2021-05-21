@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <conversacion>
-    <emisor><mensaje>Buenos días</mensaje></emisor>
+    <emisor><mensaje>Buenos dias</mensaje></emisor>
 
-    <receptor><mensaje>Hola, ¿qué hay?+</mensaje></receptor>
+    <receptor><mensaje>Hola, ¿que hay?</mensaje></receptor>
 
-    <emisor><mensaje>Le llamaba para ofrecerle un nuevo contrato telefónico</mensaje></emisor>
+    <emisor><mensaje>Le llamaba para ofrecerle un nuevo contrato telefonico</mensaje></emisor>
 
     <receptor><mensaje>¿De que trata?</mensaje></receptor>
 
