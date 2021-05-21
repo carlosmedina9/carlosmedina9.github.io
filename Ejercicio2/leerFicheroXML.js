@@ -7,6 +7,6 @@ function gestionarFicheroXML(xmlDoc){
 	for(let i=0; i<derecha.length&&izquierda.length; i++)
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='emisor'>" + derecha[i].textContent + "</p>"
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='receptor'>" + izquierda[i].textContent + "</p>"
-	
+}
 
 	loadDocA("libros.xml","xml");
