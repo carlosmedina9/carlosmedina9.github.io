@@ -1,0 +1,10 @@
+.emisor{
+    background-color: grey;
+    text-align: end;
+    border: 1px black solid;
+}
+
+.receptor{
+    background-color: blueviolet;
+    border: 1px black solid;
+}
