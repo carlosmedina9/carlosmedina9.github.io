@@ -6,7 +6,8 @@ function gestionarFicheroXML(xmlDoc){
 	if(i==2)
 	{
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='color'>" + libros[i].textContent + "</p>"
-	} else{
+	} else
+	{
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + libros[i].textContent + "</p>"
 	}
 		
