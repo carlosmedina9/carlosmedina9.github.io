@@ -9,4 +9,4 @@ function gestionarFicheroXML(xmlDoc){
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='receptor'>" + izquierda[i].textContent + "</p>"
 	}
 }
-	loadDocA("libros.xml","xml");
+	loadDocA("conversacion.xml","xml");
